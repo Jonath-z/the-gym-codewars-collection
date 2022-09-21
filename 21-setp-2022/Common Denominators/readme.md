@@ -29,6 +29,8 @@ or
 or
 "(N_1, D) ... (N_n, D)"
 ```
+
+
 depending on the language (See Example tests) in which D is as small as possible and
 
 N_1/D == numer_1/denom_1 ... N_n/D == numer_n,/denom_n.
