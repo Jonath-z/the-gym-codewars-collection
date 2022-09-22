@@ -15,8 +15,6 @@ function convertFrac(lst) {
     commonDen = (denomList[i] * commonDen) / findGCD(denomList[i], commonDen);
   }
 
-  console.log({ lst });
-
   const result = lst
     .map(function (frac) {
       return `(${(commonDen / frac[1]) * frac[0]};${commonDen})`;
