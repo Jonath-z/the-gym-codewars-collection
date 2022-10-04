@@ -42,3 +42,6 @@ function findMissingLetter(array) {
 
   return fullInterval.filter((letter) => array.indexOf(letter) === -1)[0];
 }
+
+
+export default findMissingLetter

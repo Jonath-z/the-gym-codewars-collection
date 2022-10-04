@@ -4,3 +4,5 @@ function toAcronym(inp) {
     .map((word) => word[0].toUpperCase())
     .join("");
 }
+
+export default toAcronym

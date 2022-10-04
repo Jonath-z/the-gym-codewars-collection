@@ -19,3 +19,5 @@ var lcm = function (...args) {
 
   return result;
 };
+
+export default lcm;

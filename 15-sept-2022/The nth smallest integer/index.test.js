@@ -1,3 +1,5 @@
+import {nthSmallest} from "./index"
+
 describe("Tests", () => {
   it("test", () => {
     Test.assertEquals(nthSmallest([14, 12, 46, 34, 334], 3), 34);

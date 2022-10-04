@@ -1,3 +1,5 @@
+import findMissingLetter from "./index"
+
 describe("KataTests", function () {
   it("exampleTests", function () {
     Test.assertEquals(findMissingLetter(["a", "b", "c", "d", "f"]), "e");

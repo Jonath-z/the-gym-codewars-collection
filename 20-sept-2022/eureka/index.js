@@ -20,3 +20,5 @@ function sumDigPow(a, b) {
 
   return result;
 }
+
+export  default sumDigPow

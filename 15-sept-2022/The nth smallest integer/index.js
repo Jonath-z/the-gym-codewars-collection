@@ -39,9 +39,9 @@ function nthSmallest(arr, n) {
   return n > newArr.length ? null : newArr[n - 1];
 }
 
-// removing od duplication before quick sorting , time complexity 800 ms
+// removing odd duplication before quick sorting , time complexity 800 ms
 
-function nthSmallest(arr, n) {
+export function nthSmallest(arr, n) {
   // your code
 
   const quickSort = (array) => {

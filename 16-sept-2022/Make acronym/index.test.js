@@ -2,6 +2,8 @@ const chai = require("chai");
 const assert = chai.assert;
 chai.config.truncateThreshold = 0;
 
+import toAcronym from "./index";
+
 describe("Make acronym", () => {
   it("Sample Tests", () => {
     let tests = [
