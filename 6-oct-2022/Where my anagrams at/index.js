@@ -21,3 +21,5 @@ function anagrams(word, words) {
       JSON.stringify(wordRef) === JSON.stringify(getwordLetters(_wordK))
   );
 }
+
+export default anagrams
