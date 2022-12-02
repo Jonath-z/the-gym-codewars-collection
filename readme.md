@@ -1,6 +1,6 @@
 # This is a collection of resolved codewars's challenges
 
-They are ordered by date of accomplishement at the GYM Rwanda.
+This collection contains challenges that I've worked on on codewars
 
 ## Note
 
