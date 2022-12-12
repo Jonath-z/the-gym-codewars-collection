@@ -1,13 +1,21 @@
 # This is a collection of resolved codewars's challenges
 
-They are ordered by date of accomplishement at the GYM Rwanda.
+This collection contains challenges that I've worked on on codewars
 
-## Note
+> Note
 
-- There are so many ways of resolving those exercises. Feel free to improve of factor as much as possible.
+- There are so many ways of resolving those exercises. Feel free to improve or factor as much as possible.
 
 - Read the exercise description if you want to challenge your self too.
-  Feel free to clone the repos
+ 
+ 
+## Get started 
+
+Clone the repo
+
+```bash
+  git clone https://github.com/Jonath-z/the-gym-codewars-collection/
+```
 
 ## Technology
 
