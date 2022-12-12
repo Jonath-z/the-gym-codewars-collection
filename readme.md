@@ -1,6 +1,6 @@
 # This is a collection of resolved codewars's challenges
 
-This collection contains challenges that I've solved codewars
+This collection contains challenges that I've solved on codewars
 
 > Note
 
