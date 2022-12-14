@@ -27,4 +27,4 @@ function firstNonRepeatingLetter(s) {
   return first_no_repeating;
 }
 
-export default first_no_repeating;
+export default firstNonRepeatingLetter;

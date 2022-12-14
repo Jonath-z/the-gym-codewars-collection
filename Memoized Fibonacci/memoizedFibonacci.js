@@ -9,3 +9,5 @@ function fibonacci(n) {
 
   return rec(n);
 }
+
+export default fibonacci;

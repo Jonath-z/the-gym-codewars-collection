@@ -15,3 +15,5 @@ function solution(number) {
 
   return multipleSet.reduce((a, b) => a + b, 0);
 }
+
+export default solution;

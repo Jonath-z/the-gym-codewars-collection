@@ -76,3 +76,5 @@ function parseInt(string) {
     ? getSimpleNumber(numbers[0])
     : getComplexNumber(numbers);
 }
+
+export default parseInt;

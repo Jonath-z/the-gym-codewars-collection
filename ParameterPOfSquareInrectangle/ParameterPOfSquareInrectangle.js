@@ -1,5 +1,4 @@
 export const perimeter = (n) => {
-  // your code
   const fibonacciSequence = () => {
     const sequence = [];
 
@@ -21,3 +20,5 @@ export const perimeter = (n) => {
 
   return fibonacciSequence().reduce((a, b) => a + b, 0) * 4;
 };
+
+export default perimeter;

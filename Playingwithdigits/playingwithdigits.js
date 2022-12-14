@@ -1,4 +1,4 @@
-export class G964 {
+class G964 {
   digPow = (n, p) => {
     if (n < 0 || p < 0) return -1;
     // your code
@@ -15,3 +15,7 @@ export class G964 {
     return K_number;
   };
 }
+
+const g964 = new G964();
+
+export default g964;

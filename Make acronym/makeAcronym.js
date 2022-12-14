@@ -5,4 +5,4 @@ function toAcronym(inp) {
     .join("");
 }
 
-export default toAcronym
+export default toAcronym;
