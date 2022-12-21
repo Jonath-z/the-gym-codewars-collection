@@ -10,10 +10,17 @@ Clone the repo
   git clone https://github.com/Jonath-z/the-gym-codewars-collection/
 ```
 
+## Test
+
+```bash
+   npm run test
+```
+
 ## Technology
 
 - Javascript
 - Typescrit
+- jest
 
 ## Creator
 
