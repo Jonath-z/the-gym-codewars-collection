@@ -37,3 +37,5 @@ function whoWon(players, extraCard, extraTakers) {
 
   return playersAndCorrespondingFinalScore;
 }
+
+export default whoWon;

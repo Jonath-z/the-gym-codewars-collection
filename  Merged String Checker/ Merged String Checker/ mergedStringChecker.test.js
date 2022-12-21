@@ -73,7 +73,6 @@ describe("isMerge", function () {
         ? "Can we merge it? Yes, we can!"
         : "Can we merge it? No, we can't";
       let parts = splitString("Can we merge it? Yes, we can!");
-      console.log({ mergeable, s, 1: parts[0], 2: parts[1] });
       expect(isMerge(s, parts[0], parts[1])).toBe(mergeable);
     }
   });

@@ -12,3 +12,5 @@ function sortArray(array) {
 
   return newArray;
 }
+
+export default sortArray;

@@ -22,4 +22,4 @@ function anagrams(word, words) {
   );
 }
 
-export default anagrams
+export default anagrams;

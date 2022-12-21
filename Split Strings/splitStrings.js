@@ -4,3 +4,5 @@ function solution(str) {
     .filter((el) => el !== "")
     .map((el) => (el.length === 1 ? el + "_" : el));
 }
+
+export default solution;

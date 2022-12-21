@@ -1,5 +1,4 @@
 function isValidWalk(walk) {
-  console.log(walk);
   if (walk.length === 0) return false;
   let valid = 0;
   for (let i = 0; i < walk.length; i++) {
@@ -22,3 +21,5 @@ function isValidWalk(walk) {
   }
   return walk.length === 10 && valid === 0;
 }
+
+export default isValidWalk;

@@ -1,4 +1,4 @@
-export function countSmileys(arr) {
+function countSmileys(arr) {
   if (!arr.length) return 0;
 
   let validSmileys = [
@@ -26,3 +26,5 @@ export function countSmileys(arr) {
 
   return faceCount;
 }
+
+export default countSmileys;

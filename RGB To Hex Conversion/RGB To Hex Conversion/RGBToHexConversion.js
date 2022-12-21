@@ -37,3 +37,5 @@ function rgb(r, g, b) {
 
   return result.length < 6 ? result[0].repeat(6) : result;
 }
+
+export default rgb;

@@ -1,12 +1,12 @@
 import solution from "./multipleOf-3-and-5";
 
 describe("basic tests", function () {
-  function test(n, expected) {
+  function doTest(n, expected) {
     let actual = solution(n);
     test(`Expected ${expected}, got ${actual}`, () => {
-      expect(actual, expected);
+      expect(actual).toBe(expected);
     });
   }
 
-  test(10, 23);
+  doTest(10, 23);
 });

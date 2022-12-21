@@ -7,3 +7,5 @@ function longestSlideDown(pyramid) {
 
   return pyramid[0][0];
 }
+
+export default longestSlideDown;

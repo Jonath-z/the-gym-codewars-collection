@@ -1,4 +1,4 @@
-function nthSmallest(arr, n) {
+function nthSmallest__(arr, n) {
   // your code
   const newArr = [...new Set(arr.sort((a, b) => a - b))];
 
@@ -7,7 +7,7 @@ function nthSmallest(arr, n) {
 
 // with quick sort algorithm time complexity over 1.2 s
 
-function nthSmallest(arr, n) {
+function nthSmallest_(arr, n) {
   // your code
 
   const quickSort = (newArray) => {

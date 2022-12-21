@@ -1,6 +1,4 @@
 function scramble(str1, str2) {
-  //code me
-
   //  create a char => value object of string 1
   const str1CharacterFrequency = str1.split("").reduce((container, char) => {
     if (container[char] === undefined) {
@@ -32,3 +30,5 @@ function scramble(str1, str2) {
 
   return true;
 }
+
+export default scramble;

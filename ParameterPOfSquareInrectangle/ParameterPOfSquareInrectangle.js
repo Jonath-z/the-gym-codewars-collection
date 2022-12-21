@@ -16,8 +16,6 @@ export const perimeter = (n) => {
     return sequence;
   };
 
-  console.log({ sequence: fibonacciSequence(), n });
-
   return fibonacciSequence().reduce((a, b) => a + b, 0) * 4;
 };
 

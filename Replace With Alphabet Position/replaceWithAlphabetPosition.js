@@ -42,3 +42,5 @@ function alphabetPosition(text) {
 
   return lettersPositionSet.join(" ");
 }
+
+export default alphabetPosition;

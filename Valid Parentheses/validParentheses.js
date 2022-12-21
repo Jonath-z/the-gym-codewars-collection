@@ -6,7 +6,6 @@ function validParentheses(parens) {
     if (map.has(paren)) {
       stack.push(map.get(paren));
     } else if (paren !== stack.pop()) {
-      console.log(stack.length);
       return false;
     }
   }
