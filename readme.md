@@ -23,7 +23,7 @@ Clone the repo
 
 ## Creator
 
-Jonathan Zihindula (Jonathz).
+[Jonathan Zihindula](jonathz.com)
 
 ## Contacts
 
