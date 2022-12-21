@@ -16,7 +16,7 @@ Clone the repo
    npm run test
 ```
 
-## Technology
+## Technologies
 
 - Javascript
 - Typescrit
