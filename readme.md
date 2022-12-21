@@ -19,7 +19,6 @@ Clone the repo
 ## Technologies
 
 - Javascript
-- Typescrit
 - jest
 
 ## Creator
